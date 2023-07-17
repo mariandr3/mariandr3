@@ -20,4 +20,5 @@
 
 Με αυτόν τον τρόπο, μπορέσαμε να αξιοποιήσουμε τα δεδομένα του Attribute Table και να τα οργανώσουμε σε ένα αρχείο Word για περαιτέρω ανάλυση και παρουσίαση των περιγραφικών χαρακτηριστικών των δεικτών στην εργασία μας.
 
-![rbndvi_new](https://github.com/mariandr3/mariandr3/assets/139487823/9c863940-e9d7-49dd-8599-442c90865f66)
+<p>-----<"(https://github.com/mariandr3/mariandr3/assets/139487823/9c863940-e9d7-49dd-8599-442c90865f66)
+ align="bottom" width="48" height="48">-----</p>![rbndvi_new]
