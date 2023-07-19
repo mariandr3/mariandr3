@@ -40,4 +40,4 @@ Oι δείκτες GBNDVI (Green-Blue Normalized Difference Vegetation Index), G
 
 ![wdrvi](https://github.com/mariandr3/mariandr3/assets/139487823/dc4d48c3-9094-4e16-b30b-af6b477072e4)
 
-
+Συνοψίζοντας, οι δείκτες GBNDVI, GRNDVI και RBNDVI είναι σχεδόν παρόμοιοι μεταξύ τους, καθώς οι μέσοι όροι τους είναι πολύ κοντά μεταξύ τους. Ωστόσο, η μεγαλύτερη συσχέτιση παρατηρείται μεταξύ των δεικτών GBNDVI και GRNDVI.
