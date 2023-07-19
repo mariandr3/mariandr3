@@ -28,3 +28,12 @@ Oι δείκτες GBNDVI (Green-Blue Normalized Difference Vegetation Index), G
 Αυτό συμβαίνει επειδή οι μπάντες GREEN και BLUE δείχνουν να αποτυπώνουν με μεγαλύτερη ακρίβεια την ανακλαστικότητα της χλωροφύλλης σε σχέση με τη RED μπάντα. Συγκεκριμένα, σε ένα υγιές φύλλο, η RED μπάντα απορροφάται περισσότερο από όλες τις άλλες. Ενώ, η μεγαλύτερη ανακλαστικότητα παρατηρείται στις μπάντες NIR και GREEN.
 
 
+![grndvi](https://github.com/mariandr3/mariandr3/assets/139487823/c0310af0-ceb4-4e47-a937-fb9b895fd3d1)
+
+
+![rbndvi](https://github.com/mariandr3/mariandr3/assets/139487823/7cb4d3a1-c5b5-43e6-8e72-6d21470997f8)
+
+![wdrvi](https://github.com/mariandr3/mariandr3/assets/139487823/dc4d48c3-9094-4e16-b30b-af6b477072e4)
+
+
+
