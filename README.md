@@ -20,8 +20,7 @@
 
 Με αυτόν τον τρόπο, μπορέσαμε να αξιοποιήσουμε τα δεδομένα του Attribute Table και να τα οργανώσουμε σε ένα αρχείο Word για περαιτέρω ανάλυση και παρουσίαση των περιγραφικών χαρακτηριστικών των δεικτών στην εργασία μας.
 
-
-![gbndvi_new](https://github.com/mariandr3/mariandr3/assets/139487823/63812d7c-703f-4e48-b2cc-3b386bcf2d47)
+![Uploading gbndvi.png…]()
 
 Oι δείκτες GBNDVI (Green-Blue Normalized Difference Vegetation Index), GRNDVI (Green-Red Normalized Difference Vegetation Index) και RBNDVI (Red-Blue Normalized Difference Vegetation Index) έχουν αποδειχθεί να έχουν στενή συσχέτιση με τον δείκτη LAI (Leaf Area Index), ο οποίος χρησιμοποιείται ως μέτρο της ποσότητας των φύλλων χλωροφύλλης σε μια περιοχή.
 
