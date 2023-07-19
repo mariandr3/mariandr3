@@ -35,5 +35,5 @@ Oι δείκτες GBNDVI (Green-Blue Normalized Difference Vegetation Index), G
 
 ![wdrvi](https://github.com/mariandr3/mariandr3/assets/139487823/dc4d48c3-9094-4e16-b30b-af6b477072e4)
 
-
+Οι δείκτες GBNDVI και GRNDVI είναι σχεδόν ίδιοι. Αυτό σημαίνει ότι οι NIR και RED μπάντες έχουν παρόμοια ποσοστά ανακλαστικότητας. Ωστόσο, ο δείκτης RBNDVI είναι λίγο υψηλότερος από τους άλλους δύο. Αυτό σημαίνει ότι οι RED και BLUE μπάντες έχουν μικρότερα ποσοστά ανακλαστικότητας από την GREEN μπάντα.
 
